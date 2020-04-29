@@ -22,5 +22,5 @@ Link for downloading the books.
   2. https://courses.edx.org/assets/courseware/v1/9ae1e86b60c734de6665509f7fff25ae/asset-v1:HarvardX+PH526x+1T2020+type@asset+block/Books_GerPort.zip
 
 NOTE :- 1. If you downalod the books from this link, please make sure to make a little change in the file directory according to the source code.
-        2. We had provided the Books folder, there are a total 102 books in txt form, from different writters and in different languages.
-           And the program is written according to this file directory we had provided, not with the one you get by downloading from that link.
+           Example of file directory used in the code is :- Books\English\shakespeare   
+           
